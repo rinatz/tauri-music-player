@@ -1,7 +1,15 @@
-# Tauri + Leptos
+# tauri-music-player
 
-This template should help get you started developing with Tauri and Leptos.
+学習用に作成した Tauri 製音楽アプリです。
 
-## Recommended IDE Setup
+## 利用技術
 
-[VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+- [Tauri](https://v2.tauri.app/)
+- [Leptos](https://leptos.dev/)
+- [Rust](https://www.rust-lang.org/)
+
+## 起動方法
+
+```bash
+$ cargo tauri dev
+```
